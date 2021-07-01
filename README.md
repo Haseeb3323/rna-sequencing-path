@@ -1,0 +1,2 @@
+# rna-sequencing-path
+Ggttggp
